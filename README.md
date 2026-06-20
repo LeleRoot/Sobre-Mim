@@ -12,10 +12,10 @@ ________________________________________________________________________________
     <img align="left" alt="Leila Contel" width="268px" src="https://img.shields.io/static/v1?label=gmail&message=leeilacontell@gmail.com&color=red&style=social&logo=gmail"/>
 </a>
 
-<a href="tel:+5519999365357">
-  <img src="https://img.shields.io/badge/Telefone-+55%2011%2099999--9999-green?style=for-the-badge&logo=phone" />
+<a target="_blank" href="tel:+5519999365357">
+    <img align="left" alt="Telefone" width="268px"
+    src="https://img.shields.io/static/v1?label=telefone&message=+55%2019%2099936-5357&color=green&style=social&logo=whatsapp"/>
 </a>
-    
 
 
 

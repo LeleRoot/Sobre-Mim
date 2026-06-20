@@ -1,9 +1,6 @@
-### <h1 align="center"> Prazer - Leila Contel 👋</h1>
+### <h1 align="center">TECHSUPPORT TEAM -  👋</h1>
  
-<h3 align="left"> 
-EQUIPE DE SUPORTE - IBM  </h3>
-
-💻 Equipe de Suporte de TI – IBM
+<h3 align="left"> 💻 Equipe de Suporte de TI – IBM  </h3>
 
 Bem-vindo ao nosso canal de suporte de TI.
 Nossa equipe é responsável por garantir o funcionamento adequado dos sistemas, prestar suporte técnico aos usuários e auxiliar na resolução de incidentes e solicitações relacionadas à tecnologia.
@@ -16,6 +13,14 @@ Responsável pelo suporte operacional, análise de problemas técnicos e apoio n
 👨‍💻 Rafael Augusto
 
 Responsável pelo suporte operacional, análise de problemas técnicos e apoio na manutenção de serviços e infraestrutura.
+
+________________________________________________________________________________________________________________________________________________________________
+
+
+🤝 Conte com a gente
+
+Estamos sempre à disposição para ajudar.
+Conte sempre com nosso suporte para garantir mais eficiência, estabilidade e segurança no seu dia a dia.
 
 ________________________________________________________________________________________________________________________________________________________________
    

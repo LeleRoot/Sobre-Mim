@@ -1,6 +1,6 @@
 ### <h1 align="center"> TECHSUPPORT TEAM -  👋</h1>
- 
-                                                              <h3 align="left"> 💻 Equipe de Suporte de TI – IBM  </h3>
+
+     <h3 align="left"> 💻 Equipe de Suporte de TI – IBM  </h3>
 
 Bem-vindo ao nosso canal de suporte de TI.
 Nossa equipe é responsável por garantir o funcionamento adequado dos sistemas, prestar suporte técnico aos usuários e auxiliar na resolução de incidentes e solicitações relacionadas à tecnologia.

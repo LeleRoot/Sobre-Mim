@@ -1,39 +1,54 @@
-### <h1 align="center"> TECHSUPPORT TEAM -  👋</h1>
+# 💻 Equipe de Suporte de TI
 
-     <h3 align="left"> 💻 Equipe de Suporte de TI – IBM  </h3>
+![Support](https://img.shields.io/badge/Suporte-TI-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Ativo-green?style=for-the-badge)
+![Cliente](https://img.shields.io/badge/Cliente-Itaú-orange?style=for-the-badge)
 
-Bem-vindo ao nosso canal de suporte de TI.
-Nossa equipe é responsável por garantir o funcionamento adequado dos sistemas, prestar suporte técnico aos usuários e auxiliar na resolução de incidentes e solicitações relacionadas à tecnologia.
+---
 
+## 📌 Sobre a equipe
 
-👩‍💻 Leila Contel
+Somos a equipe de Suporte de TI responsável pelo atendimento ao cliente **Itaú**, garantindo estabilidade, segurança e acesso aos sistemas corporativos utilizados no dia a dia.
 
-Responsável pelo suporte operacional, análise de problemas técnicos e apoio na manutenção de serviços e infraestrutura.
+Nosso objetivo é oferecer suporte rápido, eficiente e de qualidade para todos os usuários.
 
-👨‍💻 Rafael Augusto
+---
 
-Responsável pelo suporte operacional, análise de problemas técnicos e apoio na manutenção de serviços e infraestrutura.
+## 🎯 Nossas responsabilidades
 
-________________________________________________________________________________________________________________________________________________________________
+- 🔐 Suporte a problemas de **VPN**
+- 🔑 Gerenciamento de **acessos corporativos**
+- 📦 Suporte ao **Microsoft Office 365**
+- ⚙️ Resolução de incidentes técnicos gerais
+- 🖥️ Apoio em ferramentas e sistemas internos
 
+---
 
-🤝 Conte com a gente
+## 👩‍💻 Leila Contel
 
-Estamos sempre à disposição para ajudar.
-Conte sempre com nosso suporte para garantir mais eficiência, estabilidade e segurança no seu dia a dia.
+📌 Suporte técnico ao usuário e resolução de incidentes  
+📌 Apoio em acessos, configurações e sistemas corporativos  
 
-________________________________________________________________________________________________________________________________________________________________
-   
-<a target="_blank" href="mailto:leilacontel@ibm.com">
-    <img align="left" alt="Leila Contel" width="268px" src="https://img.shields.io/static/v1?label=gmail&message=leeilacontell@gmail.com&color=red&style=social&logo=gmail"/>
-</a>
+📧 Email: **leilacontel@ibm.com**  
+📞 Telefone: **19999365357**
 
-<a target="_blank" href="tel:+5519999365357">
-    <img align="left" alt="Telefone" width="268px"
-    src="https://img.shields.io/static/v1?label=telefone&message=+55%2019%2099936-5357&color=green&style=social&logo=whatsapp"/>
-</a>
+---
 
+## 👨‍💻 Rafael Augusto
 
+📌 Análise e suporte técnico de incidentes  
+📌 Atendimento a VPN, sistemas e ferramentas corporativas  
+
+📧 Email: **Rafael.Augusto1@ibm.com**  
+📞 Telefone: **+55 19 98708-1910**
+
+---
+
+## 🤝 Suporte sempre disponível
+
+Estamos sempre prontos para ajudar.
+
+💡 **Conte com nosso suporte de TI para garantir produtividade, estabilidade e segurança no seu ambiente de trabalho.**
 
 
 

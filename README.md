@@ -1,4 +1,4 @@
-# 💻 Equipe de Suporte de TI
+# 💻TECHSUPPORT TEAM
 
 ![Support](https://img.shields.io/badge/Suporte-TI-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Ativo-green?style=for-the-badge)

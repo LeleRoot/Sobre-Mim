@@ -1,10 +1,21 @@
 ### <h1 align="center"> Prazer - Leila Contel 👋</h1>
  
 <h3 align="left"> 
-SOBRE MIM  </h3>
+EQUIPE DE SUPORTE - IBM  </h3>
 
-- 🛠️ Profissão: Analista de Suporte | Facilitador de Experiência em Tecnologia | (IBM) 
-- 🎓 Bacharelada em Ciência da Computação | 1X AWS
+💻 Equipe de Suporte de TI – IBM
+
+Bem-vindo ao nosso canal de suporte de TI.
+Nossa equipe é responsável por garantir o funcionamento adequado dos sistemas, prestar suporte técnico aos usuários e auxiliar na resolução de incidentes e solicitações relacionadas à tecnologia.
+
+
+👩‍💻 Leila Contel
+
+Responsável pelo suporte operacional, análise de problemas técnicos e apoio na manutenção de serviços e infraestrutura.
+
+👨‍💻 Rafael Augusto
+
+Responsável pelo suporte operacional, análise de problemas técnicos e apoio na manutenção de serviços e infraestrutura.
 
 ________________________________________________________________________________________________________________________________________________________________
    

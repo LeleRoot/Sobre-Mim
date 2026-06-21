@@ -12,7 +12,7 @@ Nosso objetivo é oferecer suporte rápido, eficiente e de qualidade para todos 
 
 ---
 
-## 📩 Abrir chamado
+## 📩 ABRIR CHAMADO
 
 <p align="center">
 

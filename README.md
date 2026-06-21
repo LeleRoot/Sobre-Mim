@@ -1,4 +1,4 @@
-# 💻TECHSUPPORT TEAM
+<h1 align="center">💻 TECHSUPPORT TEAM </h1>
 
 ![Support](https://img.shields.io/badge/Suporte-TI-blue?style=for-the-badge)
 ![Cliente](https://img.shields.io/badge/Cliente-Itaú-orange?style=for-the-badge)

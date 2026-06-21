@@ -1,7 +1,6 @@
 # 💻TECHSUPPORT TEAM
 
 ![Support](https://img.shields.io/badge/Suporte-TI-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Ativo-green?style=for-the-badge)
 ![Cliente](https://img.shields.io/badge/Cliente-Itaú-orange?style=for-the-badge)
 
 ---
@@ -10,6 +9,18 @@
 
 Somos a equipe de Suporte de TI responsável pelo atendimento ao cliente **Itaú**, garantindo estabilidade, segurança e acesso aos sistemas corporativos utilizados no dia a dia.
 Nosso objetivo é oferecer suporte rápido, eficiente e de qualidade para todos os usuários.
+
+---
+
+## 📩 Abrir chamado
+
+<p align="center">
+
+<a href="https://forms.monday.com/forms/c0b8013a8e8737672c0f24d7f9d9cf96?r=use1">
+  <img src="https://img.shields.io/badge/Abrir%20Chamado-Suporte%20TI-blue?style=for-the-badge&logo=helpdesk" />
+</a>
+
+</p>
 
 ---
 

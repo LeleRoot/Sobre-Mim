@@ -6,15 +6,14 @@
 
 ---
 
-## 📌 Sobre a equipe
+## 📌 SOBRE A EQUIPE
 
 Somos a equipe de Suporte de TI responsável pelo atendimento ao cliente **Itaú**, garantindo estabilidade, segurança e acesso aos sistemas corporativos utilizados no dia a dia.
-
 Nosso objetivo é oferecer suporte rápido, eficiente e de qualidade para todos os usuários.
 
 ---
 
-## 🎯 Nossas responsabilidades
+## 🎯 NOSSAS RESPONSABILIDADES
 
 - 🔐 Suporte a problemas de **VPN**
 - 🔑 Gerenciamento de **acessos corporativos**
@@ -26,7 +25,6 @@ Nosso objetivo é oferecer suporte rápido, eficiente e de qualidade para todos 
 
 ## 👩‍💻 Leila Contel
 
-📌 Suporte técnico ao usuário e resolução de incidentes  
 📌 Apoio em acessos, configurações e sistemas corporativos  
 
 📧 Email: **leilacontel@ibm.com**  
@@ -36,11 +34,10 @@ Nosso objetivo é oferecer suporte rápido, eficiente e de qualidade para todos 
 
 ## 👨‍💻 Rafael Augusto
 
-📌 Análise e suporte técnico de incidentes  
-📌 Atendimento a VPN, sistemas e ferramentas corporativas  
+📌 Apoio em acessos, configurações e sistemas corporativos   
 
 📧 Email: **Rafael.Augusto1@ibm.com**  
-📞 Telefone: **+55 19 98708-1910**
+📞 Telefone: **19987081910**
 
 ---
 
